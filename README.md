@@ -19,6 +19,7 @@ My LeetCode solutions and DSA practice.
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0134-gas-station) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
 |  |
@@ -28,4 +29,8 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
