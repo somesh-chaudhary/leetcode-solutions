@@ -12,6 +12,7 @@ My LeetCode solutions and DSA practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -38,11 +39,13 @@ My LeetCode solutions and DSA practice.
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0402-remove-k-digits](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0402-remove-k-digits) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
