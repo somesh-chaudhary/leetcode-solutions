@@ -13,6 +13,7 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -21,6 +22,7 @@ My LeetCode solutions and DSA practice.
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -62,4 +64,8 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
