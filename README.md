@@ -52,6 +52,7 @@ My LeetCode solutions and DSA practice.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
@@ -59,6 +60,7 @@ My LeetCode solutions and DSA practice.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0402-remove-k-digits) |
