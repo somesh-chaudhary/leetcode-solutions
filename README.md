@@ -8,6 +8,7 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0043-multiply-strings](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -33,6 +34,7 @@ My LeetCode solutions and DSA practice.
 | [0134-gas-station](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,4 +88,8 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0011-container-with-most-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
