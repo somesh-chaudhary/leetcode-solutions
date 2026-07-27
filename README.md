@@ -34,6 +34,7 @@ My LeetCode solutions and DSA practice.
 | [0134-gas-station](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
 | [0682-baseball-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
@@ -86,6 +87,7 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,4 +109,8 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
