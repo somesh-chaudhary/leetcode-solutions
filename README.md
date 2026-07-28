@@ -33,6 +33,7 @@ My LeetCode solutions and DSA practice.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
+| [0496-next-greater-element-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -69,6 +70,7 @@ My LeetCode solutions and DSA practice.
 | [0032-longest-valid-parentheses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -77,6 +79,7 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
@@ -113,4 +116,8 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
