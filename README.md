@@ -6,6 +6,7 @@ My LeetCode solutions and DSA practice.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0877-stone-game) |
@@ -130,10 +131,12 @@ My LeetCode solutions and DSA practice.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
