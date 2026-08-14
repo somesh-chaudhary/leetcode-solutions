@@ -11,6 +11,7 @@ My LeetCode solutions and DSA practice.
 | [0070-climbing-stairs](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -46,6 +47,7 @@ My LeetCode solutions and DSA practice.
 | [0682-baseball-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -109,6 +111,7 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0043-multiply-strings](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +140,7 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -185,4 +189,8 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
