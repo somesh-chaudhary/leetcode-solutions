@@ -137,11 +137,13 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [2487-remove-nodes-from-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
