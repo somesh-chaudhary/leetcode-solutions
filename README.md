@@ -44,6 +44,7 @@ My LeetCode solutions and DSA practice.
 | [0134-gas-station](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -169,6 +170,7 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0155-min-stack](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -220,5 +222,6 @@ My LeetCode solutions and DSA practice.
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
