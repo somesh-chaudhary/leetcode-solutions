@@ -36,6 +36,7 @@ My LeetCode solutions and DSA practice.
 | [0011-container-with-most-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -117,6 +118,7 @@ My LeetCode solutions and DSA practice.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -210,4 +212,8 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
