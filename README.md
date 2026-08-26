@@ -42,6 +42,7 @@ My LeetCode solutions and DSA practice.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -59,6 +60,7 @@ My LeetCode solutions and DSA practice.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Number Theory
 |  |
@@ -133,6 +135,7 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0011-container-with-most-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
