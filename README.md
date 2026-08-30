@@ -49,6 +49,7 @@ My LeetCode solutions and DSA practice.
 | [0303-range-sum-query-immutable](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -216,6 +217,7 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Monotonic Queue
 |  |
 | ------- |
