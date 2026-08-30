@@ -82,6 +82,7 @@ My LeetCode solutions and DSA practice.
 | [0020-valid-parentheses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -137,6 +138,7 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0011-container-with-most-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
