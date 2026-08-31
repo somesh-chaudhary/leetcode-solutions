@@ -35,6 +35,7 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0001-two-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -64,6 +65,7 @@ My LeetCode solutions and DSA practice.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Number Theory
