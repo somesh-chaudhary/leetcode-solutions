@@ -35,6 +35,7 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0001-two-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -130,6 +131,7 @@ My LeetCode solutions and DSA practice.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
 | [1094-car-pooling](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -143,6 +145,7 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
