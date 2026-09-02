@@ -93,6 +93,7 @@ My LeetCode solutions and DSA practice.
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2716-minimize-string-length](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2716-minimize-string-length) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +183,7 @@ My LeetCode solutions and DSA practice.
 | [0217-contains-duplicate](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [2716-minimize-string-length](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Game Theory
 |  |
