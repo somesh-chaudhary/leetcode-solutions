@@ -14,6 +14,7 @@ My LeetCode solutions and DSA practice.
 | [1823-find-the-winner-of-the-circular-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ My LeetCode solutions and DSA practice.
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
