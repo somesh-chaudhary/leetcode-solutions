@@ -95,6 +95,7 @@ My LeetCode solutions and DSA practice.
 | [0043-multiply-strings](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2716-minimize-string-length](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2716-minimize-string-length) |
@@ -142,6 +143,7 @@ My LeetCode solutions and DSA practice.
 | [0056-merge-intervals](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1094-car-pooling](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -186,6 +188,7 @@ My LeetCode solutions and DSA practice.
 | [0001-two-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2716-minimize-string-length](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2716-minimize-string-length) |
