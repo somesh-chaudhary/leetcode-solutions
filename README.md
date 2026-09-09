@@ -14,6 +14,7 @@ My LeetCode solutions and DSA practice.
 | [1823-find-the-winner-of-the-circular-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3871-count-commas-in-range-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
