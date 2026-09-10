@@ -12,6 +12,7 @@ My LeetCode solutions and DSA practice.
 | [0877-stone-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3871-count-commas-in-range-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -67,6 +68,7 @@ My LeetCode solutions and DSA practice.
 | [1823-find-the-winner-of-the-circular-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -80,6 +82,7 @@ My LeetCode solutions and DSA practice.
 ## Number Theory
 |  |
 | ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
@@ -199,6 +202,7 @@ My LeetCode solutions and DSA practice.
 | [0496-next-greater-element-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2716-minimize-string-length](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Game Theory
@@ -277,4 +281,13 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 <!---LeetCode Topics End-->
