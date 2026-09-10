@@ -23,7 +23,7 @@ class Solution {
 
             if (!map.containsKey(win)) {
                 notLost.add(win);
-                map.put(win, 1);
+                map.put(win, 0);
             }
         }
 
