@@ -170,6 +170,7 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0002-add-two-numbers](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [2487-remove-nodes-from-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -190,6 +191,7 @@ My LeetCode solutions and DSA practice.
 | [0001-two-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
