@@ -63,6 +63,7 @@ My LeetCode solutions and DSA practice.
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -196,6 +197,7 @@ My LeetCode solutions and DSA practice.
 | [0242-valid-anagram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2716-minimize-string-length](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -273,5 +275,6 @@ My LeetCode solutions and DSA practice.
 ## Counting
 |  |
 | ------- |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
