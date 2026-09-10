@@ -69,6 +69,7 @@ My LeetCode solutions and DSA practice.
 | [1944-number-of-visible-people-in-a-queue](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -152,6 +153,7 @@ My LeetCode solutions and DSA practice.
 | [0242-valid-anagram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1094-car-pooling](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3731-find-missing-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -203,6 +205,7 @@ My LeetCode solutions and DSA practice.
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2716-minimize-string-length](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Game Theory
@@ -282,6 +285,7 @@ My LeetCode solutions and DSA practice.
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Euclidean Algorithm
 |  |
 | ------- |
