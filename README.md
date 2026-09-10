@@ -91,6 +91,7 @@ My LeetCode solutions and DSA practice.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0043-multiply-strings) |
@@ -187,6 +188,7 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -245,6 +247,7 @@ My LeetCode solutions and DSA practice.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Monotonic Queue
