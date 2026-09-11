@@ -4,11 +4,10 @@ class Solution {
         for(int num : nums){
             map.put(num,map.getOrDefault(num,0)+1);
         }
-        ArrayList<Integer> list=new ArrayList<>(map.values());
-        for(int i=0;i<list.size();i++){
-            for(int j=i+1;j<list.size();j++){
-                if(list.get(i).equals(list.get(j)))return false;
-            }
+        HashSet<Integer> set=new HashSet<>();
+        for(int count:map.values()){
+            if(set.contains(count))return false;
+            set.add(count);
         }
         return true;
     }
