@@ -116,6 +116,7 @@ My LeetCode solutions and DSA practice.
 | [0084-largest-rectangle-in-histogram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0155-min-stack) |
@@ -180,6 +181,7 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0002-add-two-numbers](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [2487-remove-nodes-from-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -308,6 +310,7 @@ My LeetCode solutions and DSA practice.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -322,6 +325,7 @@ My LeetCode solutions and DSA practice.
 | [0100-same-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -338,6 +342,7 @@ My LeetCode solutions and DSA practice.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
