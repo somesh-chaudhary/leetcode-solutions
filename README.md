@@ -46,6 +46,7 @@ My LeetCode solutions and DSA practice.
 | [0084-largest-rectangle-in-histogram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -166,6 +167,7 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0053-maximum-subarray](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +207,7 @@ My LeetCode solutions and DSA practice.
 | [0001-two-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -312,6 +315,7 @@ My LeetCode solutions and DSA practice.
 | [0101-symmetric-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0113-path-sum-ii) |
@@ -347,6 +351,7 @@ My LeetCode solutions and DSA practice.
 | [0101-symmetric-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0113-path-sum-ii) |
