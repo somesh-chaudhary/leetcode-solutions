@@ -326,6 +326,7 @@ My LeetCode solutions and DSA practice.
 | [0199-binary-tree-right-side-view](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -345,6 +346,7 @@ My LeetCode solutions and DSA practice.
 | [0199-binary-tree-right-side-view](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -367,6 +369,7 @@ My LeetCode solutions and DSA practice.
 | [0199-binary-tree-right-side-view](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -386,10 +389,12 @@ My LeetCode solutions and DSA practice.
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Backtracking
 |  |
@@ -400,5 +405,6 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
