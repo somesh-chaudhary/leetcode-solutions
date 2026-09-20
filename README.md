@@ -331,6 +331,7 @@ My LeetCode solutions and DSA practice.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -351,6 +352,7 @@ My LeetCode solutions and DSA practice.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -376,6 +378,7 @@ My LeetCode solutions and DSA practice.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -411,4 +414,5 @@ My LeetCode solutions and DSA practice.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
