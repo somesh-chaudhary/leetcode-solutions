@@ -27,6 +27,7 @@ My LeetCode solutions and DSA practice.
 | [0085-maximal-rectangle](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Memoization
@@ -324,6 +325,7 @@ My LeetCode solutions and DSA practice.
 | [0112-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -346,6 +348,7 @@ My LeetCode solutions and DSA practice.
 | [0112-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -371,6 +374,7 @@ My LeetCode solutions and DSA practice.
 | [0112-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -418,4 +422,8 @@ My LeetCode solutions and DSA practice.
 | [0538-convert-bst-to-greater-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
