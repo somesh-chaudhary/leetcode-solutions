@@ -29,6 +29,7 @@ My LeetCode solutions and DSA practice.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0877-stone-game) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
@@ -338,6 +339,7 @@ My LeetCode solutions and DSA practice.
 | [0701-insert-into-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -360,6 +362,7 @@ My LeetCode solutions and DSA practice.
 | [0538-convert-bst-to-greater-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -387,6 +390,7 @@ My LeetCode solutions and DSA practice.
 | [0701-insert-into-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -422,8 +426,10 @@ My LeetCode solutions and DSA practice.
 | [0538-convert-bst-to-greater-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
