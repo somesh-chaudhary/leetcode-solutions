@@ -4,9 +4,12 @@ class Solution {
         if(root.val > key)root.left = deleteNode(root.left, key);
         else if(root.val < key)root.right = deleteNode(root.right, key);
         else {
+            //case 1
             if(root.left == null && root.right == null)return null;
+            //case 2
             if(root.left == null)return root.right;
             if(root.right == null)return root.left;
+            //case 3
             TreeNode pred = root.left;
             while(pred.right != null)pred = pred.right;
             root.left = deleteNode(root.left, pred.val);
