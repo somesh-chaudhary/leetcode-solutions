@@ -225,6 +225,7 @@ My LeetCode solutions and DSA practice.
 | [0242-valid-anagram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1207-unique-number-of-occurrences](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -348,6 +349,7 @@ My LeetCode solutions and DSA practice.
 | [0538-convert-bst-to-greater-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -371,6 +373,7 @@ My LeetCode solutions and DSA practice.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -400,6 +403,7 @@ My LeetCode solutions and DSA practice.
 | [0538-convert-bst-to-greater-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -413,17 +417,20 @@ My LeetCode solutions and DSA practice.
 | [0199-binary-tree-right-side-view](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
 | ------- |
@@ -443,6 +450,7 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Quickselect
 |  |
