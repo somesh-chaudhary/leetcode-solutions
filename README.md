@@ -64,6 +64,7 @@ My LeetCode solutions and DSA practice.
 | [0496-next-greater-element-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0877-stone-game) |
 | [1094-car-pooling](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -88,6 +89,7 @@ My LeetCode solutions and DSA practice.
 | [0035-search-insert-position](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Number Theory
 |  |
@@ -166,6 +168,7 @@ My LeetCode solutions and DSA practice.
 | [0217-contains-duplicate](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -185,6 +188,7 @@ My LeetCode solutions and DSA practice.
 | [0042-trapping-rain-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0658-find-k-closest-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -210,6 +214,7 @@ My LeetCode solutions and DSA practice.
 | [0215-kth-largest-element-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -289,6 +294,7 @@ My LeetCode solutions and DSA practice.
 | [0003-longest-substring-without-repeating-characters](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Queue
 |  |
