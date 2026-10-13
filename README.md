@@ -167,6 +167,7 @@ My LeetCode solutions and DSA practice.
 | [0215-kth-largest-element-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -188,6 +189,7 @@ My LeetCode solutions and DSA practice.
 | [0042-trapping-rain-water](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
@@ -213,6 +215,7 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -250,11 +253,13 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0155-min-stack](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
