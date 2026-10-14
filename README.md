@@ -53,6 +53,7 @@ My LeetCode solutions and DSA practice.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -197,6 +198,7 @@ My LeetCode solutions and DSA practice.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Linked List
 |  |
