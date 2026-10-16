@@ -184,6 +184,7 @@ My LeetCode solutions and DSA practice.
 | [0053-maximum-subarray](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
@@ -199,6 +200,7 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Linked List
 |  |
