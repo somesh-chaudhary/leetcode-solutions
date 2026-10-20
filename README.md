@@ -55,6 +55,7 @@ My LeetCode solutions and DSA practice.
 | [0134-gas-station](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -167,6 +168,7 @@ My LeetCode solutions and DSA practice.
 | ------- |
 | [0015-3sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -185,6 +187,7 @@ My LeetCode solutions and DSA practice.
 | [0053-maximum-subarray](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
@@ -239,6 +242,7 @@ My LeetCode solutions and DSA practice.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -334,6 +338,7 @@ My LeetCode solutions and DSA practice.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0169-majority-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -494,4 +499,8 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
