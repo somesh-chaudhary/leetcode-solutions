@@ -1,12 +1,13 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int ans=0;
-        int balance=0;
-        for(int value:nums){
-            if(balance==0)ans=value;
-            if(value==ans)balance++;
-            else balance--;
+        for(int first:nums){
+            int freq=0;
+            int t=nums.length/2;
+            for(int sec:nums){
+                if(first==sec)freq++;
+            }
+            if(freq>t)return first;
         }
-        return ans;
+        return -1;
     }
 }
