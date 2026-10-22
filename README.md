@@ -28,6 +28,7 @@ My LeetCode solutions and DSA practice.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/1510-stone-game-iv) |
@@ -63,6 +64,7 @@ My LeetCode solutions and DSA practice.
 | [0260-single-number-iii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -503,4 +505,12 @@ My LeetCode solutions and DSA practice.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0169-majority-element) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/somesh-chaudhary/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
